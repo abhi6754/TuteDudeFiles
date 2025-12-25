@@ -14,3 +14,11 @@ We are simply using an if-else statemant to determine if the number is divisible
 4th program
 #Sum of Integers from 1 to 50 Using a Loop
 i starts from 1 and total is initialized to 0.The while loop runs until i reaches 50, adding i to total each time.After the loop ends, total contains the sum of numbers from 1 to 50 and is printed.
+
+5th program
+#Factorial of given number
+The function calls itself until n becomes 1 (base condition).Each call multiplies n with factorial(n-1).The final result is the factorial of the entered number.
+
+6th program
+#Using functions from math library
+The math module is imported to use mathematical functions.User input is passed to sqrt(), log(), and sin() functions.The program prints the square root, logarithm, and sine of the number.
