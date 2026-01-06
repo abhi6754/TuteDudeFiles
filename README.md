@@ -22,3 +22,13 @@ The function calls itself until n becomes 1 (base condition).Each call multiplie
 6th program
 #Using functions from math library
 The math module is imported to use mathematical functions.User input is passed to sqrt(), log(), and sin() functions.The program prints the square root, logarithm, and sine of the number.
+
+7th program
+#Read a File and Handle Errors
+The code opens sample.txt safely and reads it line by line, printing each line with its line number using enumerate().
+If the file does not exist, it handles the error gracefully by displaying "File not found".
+
+8th program
+#Write and Append Data to a File
+The program first takes user input and writes it to output.txt in write mode, then takes another input and appends it to the same file without deleting existing content.
+Finally, it opens the file in read mode and displays the complete content of output.txt on the screen.
