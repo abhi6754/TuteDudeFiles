@@ -32,3 +32,15 @@ If the file does not exist, it handles the error gracefully by displaying "File 
 #Write and Append Data to a File
 The program first takes user input and writes it to output.txt in write mode, then takes another input and appends it to the same file without deleting existing content.
 Finally, it opens the file in read mode and displays the complete content of output.txt on the screen.
+
+9th program
+#Create a Dictionary of Student Marks
+The program stores student names and their marks in a dictionary.
+It takes a student’s name as input and checks whether it exists in the dictionary.
+If the name is found, the corresponding marks are displayed; otherwise, it prints "Student not found."
+
+10th program
+#Demonstrate List Slicing 
+The program creates a list of numbers from 1 to 10.
+It extracts the first five elements using slicing and creates a copy of this extracted list.
+The copied list is then reversed, and finally, the original list, extracted list, and reversed list are printed.
